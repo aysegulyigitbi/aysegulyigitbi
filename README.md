@@ -12,7 +12,7 @@ I provide consultancy and training to various companies within the scope of busi
 • SSAS 📈
 • Azure Data Factory 🌩️
 • Azure Synapse Analytics 🌟
-• Azure Machine Learning 🤖
+• Azure ML Studio 🤖
 
 * If you want to work on business intelligence and data analysis, I'm always open! 😊
 
