@@ -5,9 +5,15 @@ My main specialization is data analytics and data visualization.
 I provide consultancy and training to various companies within the scope of business intelligence and data analysis.
 
 
-* I believe in the power of data and am passionate about problem solving. 🧩💡
-
-* I can offer the most effective solutions by reading and interpreting data.
+Tools:
+• Power BI 📈
+• MSSQL 🐘
+• SSIS 🤝
+• SSRS 📊
+• SSAS 📈
+• Azure Data Factory 🌩️
+• Azure Synapse Analytics 🌟
+• Azure Machine Learning 🤖
 
 * If you want to work on business intelligence and data analysis, I'm always open! 😊
 
@@ -15,12 +21,3 @@ I provide consultancy and training to various companies within the scope of busi
 📝 I write articles on https://medium.com/@ayigit
 
 🤝 Communication: ay.yigit@outlok.com
-
-
-My Service Scope🎯:
-
-- Extracting, transforming, and integrating data 🤝🔄🔗
-
-- Highly visual, creative, and analytical reports 🌟🎨🔍
-
-- Data analytics and visualization training 📚📊👨‍🏫
