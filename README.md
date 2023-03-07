@@ -14,9 +14,10 @@ I provide consultancy and training to various companies within the scope of busi
 • Azure Synapse Analytics 🌟
 • Azure ML Studio 🤖
 
-* If you want to work on business intelligence and data analysis, I'm always open! 😊
-
 
 📝 I write articles on https://medium.com/@ayigit
 
 🤝 Communication: ay.yigit@outlok.com
+
+
+* If you want to work on business intelligence and data analysis, I'm always open! 😊
