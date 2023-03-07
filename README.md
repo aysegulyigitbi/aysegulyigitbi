@@ -1,4 +1,4 @@
-### 👋 I'am Ayşegül
+### 👋 Hi, I'am Ayşegül
 
 My main specialization is data analytics and data visualization. 
 
