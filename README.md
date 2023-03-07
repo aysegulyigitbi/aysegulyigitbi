@@ -5,7 +5,6 @@ My main specialization is data analytics and data visualization.
 I provide consultancy and training to various companies within the scope of business intelligence and data analysis.
 
 
-Tools:
 • Power BI 📈
 • MSSQL 🐘
 • SSIS 🤝
