@@ -19,5 +19,7 @@ I provide consultancy and training to various companies within the scope of busi
 
 🤝 Communication: ay.yigit@outlok.com
 
+📷 Instagram: https://www.instagram.com/datacostr/
+
 
 * If you want to work on business intelligence and data analysis, I'm always open! 😊
