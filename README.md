@@ -16,7 +16,7 @@ I provide consultancy and training to various companies within the scope of busi
 
 
 
-🤝 Communication: ay.yigit@outlok.com
+🤝 Communication: ay.yigit@outlook.com
 
 🔗 Linkedin: https://www.linkedin.com/in/ay%C5%9Feg%C3%BCl-yi%C4%9Fit/
 
